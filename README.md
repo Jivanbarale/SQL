@@ -1,4 +1,4 @@
-🎵 Project Title: Music Store Database Analysis
+🎵 Music Store Database Analysis
 
 
 
