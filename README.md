@@ -27,3 +27,7 @@ This project demonstrates data querying, filtering, aggregation, and the use of 
 - Popular Genres by Country: Used window functions to find the most purchased genre per country.
 
 - Top Customer by Country: Applied ROW_NUMBER() to determine the highest-spending customer in each country.
+
+✅ Solutions
+
+
