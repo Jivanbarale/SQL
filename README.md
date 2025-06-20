@@ -8,6 +8,11 @@
 Analyzed a music store database using SQL to extract business insights about customer behavior, sales trends, and music preferences. 
 This project demonstrates data querying, filtering, aggregation, and the use of window functions to drive data-driven decisions for marketing and operations.
 
+Schema Diagram
+
+
+
+<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/f70dffe4-0b93-4083-82c7-9213fc488ce9" />
 
 
 🔍 Requirements
