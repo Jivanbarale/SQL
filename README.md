@@ -4,12 +4,13 @@
 
 
 📊 Summary
+
 Analyzed a music store database using SQL to extract business insights about customer behavior, sales trends, and music preferences. 
 This project demonstrates data querying, filtering, aggregation, and the use of window functions to drive data-driven decisions for marketing and operations.
 
 
 
-
+🔍 Requriments
 
 - Identified Senior Employee: Queried employee data to find the most senior employee based on job title levels.
 
