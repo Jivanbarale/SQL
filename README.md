@@ -30,4 +30,4 @@ This project demonstrates data querying, filtering, aggregation, and the use of 
 
 ✅ Solutions
 
-
+[download](https://github.com/Jivanbarale/SQL/blob/main/123.sql)
