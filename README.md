@@ -15,6 +15,8 @@ Schema Diagram
 <img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/f70dffe4-0b93-4083-82c7-9213fc488ce9" />
 
 
+[download](
+
 🔍 Requirements
 
 - Identified Senior Employee: Queried employee data to find the most senior employee based on job title levels.
