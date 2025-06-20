@@ -28,6 +28,9 @@ This project demonstrates data querying, filtering, aggregation, and the use of 
 
 - Top Customer by Country: Applied ROW_NUMBER() to determine the highest-spending customer in each country.
 
+
+
+
 ✅ Solutions
 
 [download](https://github.com/Jivanbarale/SQL/blob/main/123.sql)
