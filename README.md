@@ -10,7 +10,7 @@ This project demonstrates data querying, filtering, aggregation, and the use of 
 
 
 
-🔍 Requriments
+🔍 Requirements
 
 - Identified Senior Employee: Queried employee data to find the most senior employee based on job title levels.
 
