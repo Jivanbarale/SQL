@@ -15,7 +15,7 @@ Schema Diagram
 <img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/f70dffe4-0b93-4083-82c7-9213fc488ce9" />
 
 
-[download](
+[download](https://github.com/Jivanbarale/SQL/blob/main/schema_diagram.png)
 
 🔍 Requirements
 
